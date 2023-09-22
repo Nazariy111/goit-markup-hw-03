@@ -110,6 +110,10 @@ a {
     color: var(--OCEAN, #404BBF);
 }
 
+.section {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
 
 .banner-container {
     background: var(--NAVY-BLUE, #2E2F42);
@@ -159,9 +163,7 @@ a {
 }
 
 
-.features-container {
-    padding: 120px 15px;
-}
+
 
 .features-list {
     display: flex;
@@ -197,7 +199,6 @@ a {
 }
 
 .team-container {
-    padding: 120px 15px;
     background-color: #F4F4FD;
     text-align: center;
 }
@@ -241,9 +242,7 @@ a {
     padding-bottom: 32px;
 }
 
-.portfolio-container {
-    padding: 120px 15px;
-}
+
 
 .portfolio-list {
     display: flex;
